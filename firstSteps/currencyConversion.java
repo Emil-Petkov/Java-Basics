@@ -1,3 +1,5 @@
+package firstSteps;
+
 import java.util.Scanner;
 
 public class currencyConversion {
